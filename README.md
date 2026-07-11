@@ -1,1 +1,1 @@
-scala val 
+scala val
